@@ -1,0 +1,19 @@
+# 環境設定・APIキー
+.env
+.env.local
+config.local.js
+
+# OS系
+.DS_Store
+Thumbs.db
+
+# エディタ設定
+.vscode/
+.idea/
+
+# Node
+node_modules/
+package-lock.json
+
+# ログ
+*.log
